@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.mliuxb.touchevent.ViewGroupA
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.mliuxb.touchevent.ViewGroupB
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorB">
+
+        <com.mliuxb.touchevent.SonView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorC"/>
+
+    </com.mliuxb.touchevent.ViewGroupB>
+
+</com.mliuxb.touchevent.ViewGroupA>
